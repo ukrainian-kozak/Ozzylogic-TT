@@ -1,4 +1,4 @@
-# Ozzylogic-TT
+# UDP server-client model
 
 Документація до ТЗ.
 
